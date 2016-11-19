@@ -1,0 +1,66 @@
+html,body{
+	background-color: #00e6e6;
+	margin:0;
+	height:100%;
+}
+aside{
+	font-family: 'Dancing Script', cursive;
+	font-size: 
+}
+header{
+	font-family: 'Francois One', sans-serif;
+	font-size: 30px;
+
+}
+h3{
+	font-family: 'Playfair Display', serif;
+	font-size: 
+
+}
+.main-navigation{
+	font-family: 'Raleway', sans-serif;
+	display: inline;
+	font-size: 
+
+}
+.white-text{
+	color:#F5F9F9;
+}
+.smaller-image{
+	width: 100px;
+}
+.thick-white-border{
+	border-color:#F5F9F9;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 50%;
+}
+
+.nav-border{
+	border-color: white ;
+	border-width: 35px;
+	border-style: solid;
+}
+ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+
+img{
+	float: left;
+	margin:0, 1.5%;
+	width: 63%;
+}
+.hire-me{
+	float: right;
+	margin: 0 1.5%;
+	width: 30%;
+}
+footer{
+	font-family: 'Raleway', sans-serif;
+	border-color:white;
+	border-width:35px;
+	border-style:solid;
+	font-size: 
+}
