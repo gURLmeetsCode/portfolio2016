@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>gURLmeetsCode</title>
+
+		<link rel="shortcut icon" href="favicon.ico" >
+		<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />
+		<link href="https://fonts.googleapis.com/css?family=Oswald|Lobster|Raleway|Slabo+27px" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+
+	</head>
+	
+	<body>
+		<div class="header-format">
+		<header class="white-text primary-header"> gURL meets Code</header>
+		</div>
+		
+		<div class="main-navigation">
+		<nav>
+			<ul>
+				<li><a name='about' href="#about">About Me</a></li>
+				<li><a name='education' href="#education">Education</a></li>
+				<li><a name='philosophy' href="#experience">Experience</a></li>
+				<li><a name='hackHer' href="https://hackhersite.wordpress.com/">hackHer</a></li>
+				<li><a name='contact' href="#contact">Contact Me</a></li>
+			</ul>	
+		</nav>
+	</div>
+
+		<div class="hire-me">
+			<form><a href="mailto:kellynatashav@yahoo.com"><input type="button" value="Hire Me" /></a></form>
+		</div>
+
+		<img class="smaller-image thick-white-border" alt="Photo of Me." src="https://avatars.githubusercontent.com/u/19400626?v=3">	
+		</img>
+		
+		<div class="subtitle-1">
+		<aside class="white-text">
+			Web Developer / Proficiency HTML, CSS, JavaScript and Jquery 
+		</aside></div>
+		
+		<div class="subtitle-2">
+		<div class="white-text"> 
+			<h3> Enjoy building websites and mobile interfaces with the intent to innovative web and mobile user experience. </h3>
+		</div></div>
+		
+
+		<div class="row row-alt">
+
+		<section class="section-text"><div id='about'class="background"><h3>About Me</h3> </div> My name is Natasha Kelly and I am a Web Developer. I am originally from New York and I am currently working in Northern California. My journey began in 2015 shortly after I started working in the Uber and Sqaure building in San Francisco. I was constantly surrounded by tech and thought whats stopping me from doing that? As a person with Lupus I wanted to be a positive role model for all people that no dream is too big!</section>
+
+		<section class="section-text"><div id='education'class="background"><h3>Education</h3></div>I am a self taught developer. The majority of my education came from online resources such as freecodecamp.com, Girl develop It San Francisco and lynda.com.
+		<br>
+			<br>
+			<h5>Overview of Courses</h5>
+			<ul>
+				<!--li></li>
+				<li></li>-->
+				<li>Hackbright Academy: Intro to Programming. All female school focused on changing the ratio. The introductory course is 12 weeks. Material covered is the fundamentals to Python  GIT, VIM, pair programming, program logic, data structures, API, and Python Web framework.</li>
+			</ul>
+		</section>
+
+		<section class="section-text"><div id='experience'class="background"><h3>Experience</h3></div> I have worked on high level tasks for Uber, Square and Facebook as part of the Facities department. <br>
+		I currently work as a Global Procurement Assistant for Facebook. The role includes support for North American expansion projects.
+		<a href="https://drive.google.com/file/d/0B70utdZQ52_XNnp0TDZxWG5PdDA/view?usp=sharing">View My Resume</a>
+			</section>
+
+		 <p class="section-text para-text"> Projects: I am currently working on this portfolio and building a deeper understanding of Python.
+			Check out more of my work on GitHub. 
+		 </p>
+		 <!--<iframe src ="https://hackhersite.wordpress.com/" width="20%" height="300">
+			<p>Your browser does not support iFrames.</p>
+		</iframe>-->
+		</div>
+		<footer>
+		<div class="footer primary-footer">
+				<div class="container">
+				<form class="form form-text">
+					<h1>Interested in hiring me for a project? Let's Chat!</h1>
+					<input type="text" name="name" placeholder="Your Name" required />
+					<input type="email" name="email-address" placeholder="Email Address" required/>
+					<textarea name="field3" placeholder="Type your Message"></textarea>
+					<input type="submit" name="submit" value="Send"/>
+			</form>
+				<section class="footer-links">
+                	<ul>
+                  	<li><a class="section-text" href="https://github.com/gURLmeetsCode"><img class="smaller-img-media" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png" alt="github"></img></a></li>
+                  	<li><a class="section-text" href="https://www.linkedin.com/in/natashakelly1 "><img class="smaller-img-media" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin"></img></a></li>
+                  	<li><a class="section-text" href="https://www.facebook.com/natasha.kelly.16"><img class="smaller-img-media" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/2000px-F_icon.svg.png" alt="facebook"></img></a></li>
+                 	<li><a class="section-text" href="https://hackhersite.wordpress.com/"><img class="smaller-img-media" src="https://www.beclickable.co.uk/wp-content/uploads/2015/07/WordPress_Icon.300.png" alt="wordpress"></img></a></li>
+               	 	</ul>
+                </section>
+              </div>
+            </div>
+        </footer>
+	</body>
+</html>
