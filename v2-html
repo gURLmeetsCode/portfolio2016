@@ -3,28 +3,35 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>gURLmeetsCode</title>
-
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="shortcut icon" href="favicon.ico" >
 		<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />
 		<link href="https://fonts.googleapis.com/css?family=Oswald|Lobster|Raleway|Slabo+27px" rel="stylesheet">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+	
+		<title>gURLmeetsCode</title>
+
 
 	</head>
 	
 	<body>
+		<script type="text/javascript" src="script.js">
+		</script>
+		
 		<div class="header-format">
 		<header class="white-text primary-header"> gURL meets Code</header>
 		</div>
 		
 		<div class="main-navigation">
 		<nav>
-			<ul>
+			<ul class="topnav" id="myTopnav">
 				<li><a name='about' href="#about">About Me</a></li>
 				<li><a name='education' href="#education">Education</a></li>
 				<li><a name='philosophy' href="#experience">Experience</a></li>
 				<li><a name='hackHer' href="https://hackhersite.wordpress.com/">hackHer</a></li>
 				<li><a name='contact' href="#contact">Contact Me</a></li>
+				<li class="icon"><a href="javascript:void(0);"onclick="myFunction()">&#9776;</a>
+				</li>
 			</ul>	
 		</nav>
 	</div>
@@ -67,8 +74,7 @@
 		<a href="https://drive.google.com/file/d/0B70utdZQ52_XNnp0TDZxWG5PdDA/view?usp=sharing">View My Resume</a>
 			</section>
 
-		 <p class="section-text para-text"> Projects: I am currently working on this portfolio and building a deeper understanding of Python.
-			Check out more of my work on GitHub. 
+		<p class="section-text para-text"> 
 		 </p>
 		 <!--<iframe src ="https://hackhersite.wordpress.com/" width="20%" height="300">
 			<p>Your browser does not support iFrames.</p>
